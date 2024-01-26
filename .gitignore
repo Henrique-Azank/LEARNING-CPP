@@ -2,3 +2,14 @@
 *.exe
 *.out
 *.app
+
+# The following ignore statements aim to ignore binary files
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
